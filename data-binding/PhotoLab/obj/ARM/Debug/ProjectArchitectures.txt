@@ -1,0 +1,1 @@
+\\Mac\Home\Desktop\Windows-appsample-photo-lab\xaml-basics-starting-points\data-binding\PhotoLab\PhotoLab.csproj;arm
